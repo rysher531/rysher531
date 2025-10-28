@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Ryszard Hermanowicz. I am a systems thinker, systems engineer, and systems developer. I am a lifelong learner, ready for VUCA-world, serving as a leader, meticulous as a functional safety engineer, curious as a software engineer, and pragmatic as a coding craftsman. I enjoy tackling some of the biggest engineering challenges, growing my understanding of a system iteratively, constantly switching between big picture and tiny details, balancing between confidence in design decisions and modesty and respect to technology and its complexity.
+
+For details on my skillset and history visit my [LinkedIn Profile](www.linkedin.com/in/ryszard-hermanowicz-75108824). 
+
 <!--
 **rysher531/rysher531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
